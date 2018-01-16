@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408800503068",
+    "firebase_url": "https://fir-nxt-cbc89.firebaseio.com",
+    "project_id": "fir-nxt-cbc89",
+    "storage_bucket": "fir-nxt-cbc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408800503068:android:0b3fde420aed2ffe",
+        "android_client_info": {
+          "package_name": "com.example.cesar.pruebacolor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408800503068-5uebgusl9u1i51fkhumc69e662hsg7ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cesar.pruebacolor",
+            "certificate_hash": "b9ffe9dd4128ceb775a6bd6864d2dfb5785d540f"
+          }
+        },
+        {
+          "client_id": "408800503068-qg19tra2vi582f2femt3mmc86sgoajk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1SKc7WRgLXQgXw7OI84Rwjjw4HB0z0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408800503068-qg19tra2vi582f2femt3mmc86sgoajk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
